@@ -1,5 +1,12 @@
 body { background: #222; color: white !important; }
 
+.c-message__body {
+    display: inline-block;
+    width: 100%;
+    color: white;
+    word-wrap: break-word;
+}
+
 .c-scrollbar__child{background:black;}
 
 a { color: #FF00D9; }
